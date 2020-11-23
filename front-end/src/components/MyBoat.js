@@ -7,7 +7,6 @@ export const MyBoat = () => {
         <Container>
             <h1>Here is your boat</h1>
             <MyMapComponent isMarkerShown lat={59.910015} lng={10.731262} />
-            <button>Unlock Boat</>
         </Container>
     );
 }
